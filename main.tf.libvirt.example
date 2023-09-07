@@ -20,7 +20,7 @@ module "base" {
 
   // optional parameters with defaults below
   // use_avahi = true
-  // name_prefix = "" // if you use name_prefix, make sure to update the server_configuration for clients/minions below
+  // name_prefix = ""
   // timezone = "Europe/Berlin"
   // use_ntp = true
 
